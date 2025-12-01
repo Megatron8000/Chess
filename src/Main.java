@@ -1,9 +1,3 @@
-
-public class Main {
-    public static void main(String[] args) {
-
-        System.out.print("It's alive! It's alive!");
-        //Board board = new Board();
-
-        }
-    }
+public static void main(String[] args) {
+    System.out.println("Hello!");
+}
